@@ -1,1 +1,1 @@
-Projeto de Metodos numeroicos na faculdade. Foi desenvolvido em python, e ao inserir-se os numeros solicitados, é realizado o calculo da integração numérica 
+Desenvolvimento de aplicação em Python para cálculo de integrais definidas utilizando o método do Trapézio, permitindo inserir funções matemáticas dinamicamente. Implementação de interface gráfica com Tkinter e cálculo de erro de arredondamento e intervalo da solução.
